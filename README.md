@@ -65,3 +65,7 @@ CLIMATE:IDEAM
 A través de la interconexión con Panamá (cuya construcción física inicia formalmente en 2026), Colombia podrá acceder a los seis países que integran el MER:
 
 B2 CLEAN SERVICES
+
+Seguidores Solares (Trackers): Están montados sobre estructuras metálicas automatizadas de la marca Soltec (modelo SF7
+
+Jinko Solar, Trina Solar o Canadian Solar
