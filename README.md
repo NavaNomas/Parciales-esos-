@@ -60,3 +60,8 @@ BANCOLDEX
 FINDETER
 
 CLIMATE:IDEAM
+
+1. Mercado Eléctrico Regional (MER) de América Central
+A través de la interconexión con Panamá (cuya construcción física inicia formalmente en 2026), Colombia podrá acceder a los seis países que integran el MER:
+
+B2 CLEAN SERVICES
