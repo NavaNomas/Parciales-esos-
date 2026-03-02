@@ -125,3 +125,34 @@ fix_fingers(), se ejecuta periodicamente y aleatoriamente, para un indice de cua
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 PARTE D
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://www.dane.gov.co/index.php/estadisticas-por-tema/agropecuario/sistema-de-informacion-de-precios-sipsa
+https://www.jircas.go.jp/sites/default/files/publication/green/green72-8_1-16.pdf
+https://iecaiberoamerica.org/comportamiento-de-trinchos-en-guadua-angustifolia-en-suelos-friccionantes-a-traves-de-analisis-por-elementos-finitos/
+
