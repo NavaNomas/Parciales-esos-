@@ -1,0 +1,10 @@
+I am writing to formally bring to your attention some observations regarding the internal processes. My goal is to ensure that we maintain the highest standards of transparency and integrity, which are vital for the accuracy of our operations and the trust of the client.
+I would like to put forward three specific areas where I believe there are significant gaps that need to be addressed or clarified to prevent potential irregularities:
+QA Hourly Coverage Discrepancy: Currently, when one site fails to meet its hourly coverage, the deficit is being compensated by increasing hours at the other site to meet the overall target. This practice undermines the purpose of having site-specific goals. Each operation should be satisfied independently to ensure quality at a local level. I would appreciate a clarification on the logic behind this, as it currently lacks transparency.
+Policy vs. QA Responsibilities (RCA Overturns): I have noticed that QA personnel are frequently handling "overturns" and RCA case reviews, tasks that should strictly fall under the Policy Department. This overlap creates a conflict of interest; since QAs have the "final word" on their own work or their peers', we are seeing abnormally high overturn ratios. To ensure objectivity, these functions must be clearly separated.
+Integrity of Monthly Policy Assessments: It has come to my attention that the Monthly Policy Assessments, which should be individual evaluations, are being completed in groups with shared answers and no supervision and with the approval of an OM. This practice defeats the purpose of the assessment and poses a risk to the collective knowledge and compliance of the team.
+I am raising these points to ensure that the processes are not only compliant on paper but ethical in practice.
+I am available to discuss these points in further detail and provide more context if needed.
+Best regards,
+
+  fraudwatch@taskus.com
